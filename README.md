@@ -12,3 +12,9 @@ how to find best mf:
 1) first find list of mutual fund from money control: https://www.moneycontrol.com/
 2) comapre using etmoneny and select final one.: https://www.etmoney.com/mutual-funds/compare
    
+
+
+index fund type:
+1) nifty 50 --largecap,low risk,low return
+2) nifty next 50 --midcap,high risk ,high return
+3) nifty 100 =nifty 50+nifty next 50 -- mixed,medium risk,medium return
